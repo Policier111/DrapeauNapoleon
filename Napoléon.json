@@ -1,0 +1,15 @@
+{
+  "contact": "r/NapoleonFR" "discord.gg/grandearmee",
+  "templates": [
+    {
+      "name": "Drapeau Napoléon par La Grande Armée et Christopher Lannes",
+      "sources": [
+        "https://raw.githubusercontent.com/Policier111/DrapeauNapoleon/main/"METTRE NOM IMAGE".png"
+      ],
+      "x": 1000,
+      "y": 1000
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
